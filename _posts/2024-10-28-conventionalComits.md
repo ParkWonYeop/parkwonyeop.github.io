@@ -12,7 +12,7 @@ author: ParkWonyeop
 published: true
 category: theory
 ---
-
+ 
 ## **Rule**
 
 1. 메시지 구조
