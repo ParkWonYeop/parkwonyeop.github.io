@@ -24,7 +24,7 @@ Spring boot reqeust life cycle은 Spring Boot에서의 Http요청에 대한 수�
 
 ## Life Cycle
 
-<center><img src="../assets/img/posts/20230521/1.png"></center>
+<center><img src="../assets/img/posts/20230521/1.png" alt=""></center>
 
 ### 1. 클라이언트가 HTTP 요청을 보낸다
 

@@ -33,7 +33,7 @@ NestJS는 터미널 혹은 명령프롬포트에 아래와 같은 명령어를 �
 
 프로젝트를 생성하면 아래와 같은 파일들이 생성될 것이다.
 
-<center><img src="../assets/img/posts/20221115/img1.png"></center>
+<center><img src="../assets/img/posts/20221115/img1.png" alt=""></center>
 
 위의 파일중 우리가 알아야할 파일은 src 폴더 내부의 파일들이다.
 
@@ -51,7 +51,7 @@ NestJS는 터미널 혹은 명령프롬포트에 아래와 같은 명령어를 �
 
 > http://localhost:3000/
 
-<center><img src="../assets/img/posts/20221115/img2.png"></center>
+<center><img src="../assets/img/posts/20221115/img2.png" alt=""></center>
 
 ## 마치며
 

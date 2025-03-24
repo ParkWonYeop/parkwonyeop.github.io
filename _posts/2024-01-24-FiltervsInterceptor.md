@@ -39,4 +39,4 @@ J2EE란 자바 기술로 기업 환경의 어플리케이션을 만드는데 필
 
 ## Filter vs Interceptor
 
-<center><img src="../assets/img/posts/20240125/1.png"></center>
+<center><img src="../assets/img/posts/20240125/1.png" alt=""></center>
